@@ -1,3 +1,4 @@
+// +build:linux
 //go:generate build/make_js.bash
 
 // Package espeak is a wrapper around espeak-ng that works both natively and in gopherjs with the same API.
