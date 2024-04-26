@@ -1,5 +1,5 @@
-// +build:linux
 //go:generate build/make_js.bash
+// +build linux
 
 // Package espeak is a wrapper around espeak-ng that works both natively and in gopherjs with the same API.
 // espeak-ng is an open source text to speech library that has over one hundred voices and languages and

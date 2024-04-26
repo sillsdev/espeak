@@ -1,3 +1,5 @@
+// +build linux
+
 package espeak // import "gopkg.in/BenLubar/espeak.v2"
 
 import (
